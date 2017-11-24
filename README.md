@@ -1,5 +1,4 @@
-# install-sbt
-Installs SBT and default-jre with default-jdk on Ubuntu
+# Installs SBT and default-jre with default-jdk on Ubuntu
 
 ```bash
 wget -q https://raw.githubusercontent.com/DevInsideYou/install-sbt/master/install-sbt.sh
