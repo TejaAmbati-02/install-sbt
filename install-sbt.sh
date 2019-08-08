@@ -6,5 +6,9 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2EE0EA64E40A89
 sudo apt update
 sudo apt install -y sbt
 
+echo
+
+echo '"sbt" is now on the path'
+
 # remove yourself
 rm $0
